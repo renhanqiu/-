@@ -7,4 +7,4 @@ createing a  new branch is quick now;
 createing a new branch is quick nnew ;
 Creating a new branch is quick and simple.
 
-
+Creating a new branch is quick & simple.

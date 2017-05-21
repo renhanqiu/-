@@ -5,7 +5,7 @@ Git tracks changes.
 createing a new branch is quick.
 createing a  new branch is quick now;
 createing a new branch is quick nnew ;
-creatingjskfsdksdkf
+Creating a new branch is quick & simple.
 
 
 
